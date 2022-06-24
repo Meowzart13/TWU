@@ -21,6 +21,14 @@
   
 <p> I work for Texas Woman's University </p> 
 
+<div role="img" aria-label="TWU Dallas Campus">
+  <img src="https://github.com/Meowzart13/TWU/blob/gh-pages/download.png"
+  src= https://github.com/Meowzart13/TWU/blob/gh-pages/download.png 2x, 
+       https://github.com/Meowzart13/TWU/blob/gh-pages/download.png 3x,
+       https://github.com/Meowzart13/TWU/blob/gh-pages/download.png  4x, 
+        alt="TWU Dallas Campus"
+    width="400" height="400">
+  </div>
 <p> I like cats </p> 
 
 <p> I am in the Masters of Informatics with a focus on Data Analytics program at TWU </p> 
@@ -29,7 +37,7 @@
 
 <h3> I wish I could show more skills I picked up </h3>
 
-<p> I was happy I was able to figure out some of the accessibility coding </p> 
+<p> I was happy I was able to figure out some of the accessibility coding. I also hope I got the responsivie image coding correct. </p> 
 
 <h6> Even this simple page is more than I expected to be able to do </h6>
 
