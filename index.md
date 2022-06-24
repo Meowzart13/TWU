@@ -4,7 +4,7 @@
 </head>
 </html>
 
-## Welcome to GitHub Pages
+# Welcome to My First GitHub Page
 
 <div role="img" aria-label="Yaktocat">
   <img src="https://octodex.github.com/images/yaktocat.png" alt="Yaktocat in Thai Demon dress">
