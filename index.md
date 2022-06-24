@@ -29,7 +29,20 @@
         alt="TWU Dallas Campus"
     width="400" height="400">
   </div>
-<p> I like cats </p> 
+  
+  
+<p> I like cats. I have two; Maui and Inanna. They are brother and sister and like to take naps together. </p> 
+
+<div role="img" aria-label="Maui and Inanna sleeping in cat bed">
+  <img src="https://github.com/Meowzart13/TWU/blob/gh-pages/20201212_205447.jpg"
+       src= https://github.com/Meowzart13/TWU/blob/gh-pages/20201212_205447.jpg 2x, 
+            https://github.com/Meowzart13/TWU/blob/gh-pages/20201212_205447.jpg 3x,
+            https://github.com/Meowzart13/TWU/blob/gh-pages/20201212_205447.jpg 4x, 
+        alt="Maui and Inanna sleeping in cat bed"
+    width="400" height="400">
+  </div>
+  
+
 
 <p> I am in the Masters of Informatics with a focus on Data Analytics program at TWU </p> 
 
