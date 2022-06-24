@@ -27,5 +27,9 @@
 
 <p> I knew nothing about webdesign before this course </p> 
 
+<h3> I wish I could show more skills I picked up </h3>
 
+<p> I was happy I was able to figure out some of the accessibility coding </p> 
+
+<h6> Even this simple page is more than I expected to be able to do </h6>
 
