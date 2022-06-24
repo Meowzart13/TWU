@@ -1,6 +1,7 @@
 <html lang="eng-US" dir="ltr" >
 <head>
 <meta charset="UTF-8">
+  <link rel="CSSpalette" href="CSSpalette.css">
 </head>
 </html>
 
