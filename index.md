@@ -8,7 +8,7 @@
 
 <div role="img" aria-label="Yaktocat">
   <img src="https://octodex.github.com/images/yaktocat.png"
-  srcet=https://octodex.github.com/images/yaktocat.png 2x, 
+  srcet= https://octodex.github.com/images/yaktocat.png 2x, 
         https://octodex.github.com/images/yaktocat.png 3x,
         https://octodex.github.com/images/yaktocat.png 4x, 
         alt="Yaktocat in Thai Demon costume"
