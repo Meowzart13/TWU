@@ -6,8 +6,8 @@
 
 ## Welcome to GitHub Pages
 
-<div role="img" aria-label="Yaktocat in Thai Demon dress">
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<div role="img" aria-label="Yaktocat">
+  <img src="https://octodex.github.com/images/yaktocat.png" alt="Yaktocat in Thai Demon dress">
   </div>
 
 
