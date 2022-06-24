@@ -6,7 +6,7 @@
 </head>
 </html>
 
-# Welcome to My First GitHub Page
+<h1> Welcome to My First GitHub Page </h1>
 
 <div role="img" aria-label="Yaktocat">
   <img src="https://octodex.github.com/images/yaktocat.png"
@@ -17,11 +17,15 @@
     width="600" height="600">
   </div>
 
+  <h2> A little about me </h2>
+  
+<p> I work for Texas Woman's University </p> 
 
+<p> I like cats </p> 
 
-# Header 1
-## Header 2
-### Header 3
+<iframe width="420" height="345" src="https://www.youtube.com/embed/9jj0J9TpJsg?controls=1" alt="three kittens playing">
+</iframe>
+
 
 - Bulleted
 - List
