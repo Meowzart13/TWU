@@ -44,9 +44,9 @@
   
 
 
-<p> I am in the Masters of Informatics with a focus on Data Analytics program at TWU </p> 
+<p> I am in the Masters of Informatics with a focus on Data Analytics program at TWU. </p> 
 
-<p> I knew nothing about webdesign before this course </p> 
+<p> I knew nothing about webdesign before this course. </p> 
 
 <h3> I wish I could show more skills I picked up </h3>
 
