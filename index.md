@@ -45,6 +45,11 @@
     width="400" height="400">
   </div>
   
+  <!-- insert a youtube video with aria labeling -->
+  
+  <iframe width="420" height="345" src="https://www.youtube.com/embed/9jj0J9TpJsg?controls=1"
+          alt="three kittens playing">
+</iframe>
 
 
 <p> I am in the Masters of Informatics with a focus on Data Analytics program at TWU. </p> 
@@ -52,6 +57,7 @@
 <p> I knew nothing about webdesign before this course. </p> 
 
 <h3> I wish I could show more skills I picked up </h3>
+<!-- insert a Javascript button -->
 
 <p id="demo">JavaScript can change HTML content.</p>
 
