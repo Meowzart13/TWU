@@ -1,13 +1,16 @@
 <!DOCTYPE html>
+<!-- The aria language marking -->
 <html lang="eng-US" dir="ltr" >
 <head>
+<!-- HTML character encoding -->
 <meta charset="UTF-8">
+  <!-- the CSS color scheme I created -->
   <link rel="CSSpalette" href="CSSpalette.c">
 </head>
 </html>
 
 <h1> Welcome to My First GitHub Page </h1>
-
+<!-- this is highlighting aria labels for a web hosted image -->
 <div role="img" aria-label="Yaktocat">
   <img src="https://octodex.github.com/images/yaktocat.png"
   src= https://octodex.github.com/images/yaktocat.png 2x, 
@@ -16,11 +19,11 @@
         alt="Yaktocat in Thai Demon costume"
     width="600" height="600">
   </div>
-
+<!-- a different heading level -->
   <h2> A little about me </h2>
   
 <p> I work for Texas Woman's University </p> 
-
+<!-- an aria label on a responsive image that is local --> 
 <div role="img" aria-label="TWU Dallas Campus">
   <img src="https://github.com/Meowzart13/TWU/blob/gh-pages/download.png"
   src= https://github.com/Meowzart13/TWU/blob/gh-pages/download.png 2x, 
