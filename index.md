@@ -53,6 +53,10 @@
 
 <h3> I wish I could show more skills I picked up </h3>
 
+<p id="demo">JavaScript can change HTML content.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+
 <p> I was happy I was able to figure out some of the accessibility coding. I also hope I got the responsivie image coding correct. </p> 
 
 <h6> Even this simple page is more than I expected to be able to do </h6>
